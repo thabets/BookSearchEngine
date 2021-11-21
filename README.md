@@ -54,7 +54,7 @@ undefined
 
 ## Screenshot
 
-![Screenshot] (/BookSearchEngine.png)
+![Screenshot] (/assets/Screenshot.PNG)
 
 ## Active Url
 
