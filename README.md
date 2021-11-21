@@ -50,7 +50,7 @@ Before you begin, ensure you have met the following requirements:
 
 To install <Book Search Engine>, follow these steps:
 
-undefined
+N/A
 
 ## Screenshot
 
