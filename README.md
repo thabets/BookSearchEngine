@@ -54,7 +54,7 @@ N/A
 
 ## Screenshot
 
-![Screenshot] (/assets/Screenshot.PNG)
+![Screenshot](/assets/Screenshot.PNG)
 
 ## Active Url
 
