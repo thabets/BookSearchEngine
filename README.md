@@ -1,31 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Table of Content
-
-## [Project Name](#project-name)
-
-## [Project Creator](#project-creator)
-
-## [Description](#description)
-
-## [Prerequisites for Use](#prerequisites)
-
-## [Installation](#installing)
-
-## [Screenshot](#screenshot)
-
-## [Active Url](#active-url)
-
-## [Repository Link](#repository-link)
-
-## [Contributing To](#contributing-to)
-
-## [Contributors](#contributors)
-
-## [Contact](#contact)
-
-## [license](#license)
-
 # Project name
 
 Book Search Engine
